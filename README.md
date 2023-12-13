@@ -1,8 +1,6 @@
 ### Olá, Mundo! 👋
 
 Me chamo João Arthur Souza Santos 👨‍💻
-
-#### Sobre Mim:
 Sempre nutri grande interesse pela tecnologia e ciência em geral. Durante minha jornada na faculdade, desenvolvi uma paixão pelo aprendizado voltado ao desenvolvimento. Atualmente, possuo habilidades em PHP, JavaScript, HTML, CSS e Python, além de um conhecimento básico em Laravel, Vue.js e Django. Meu objetivo é evoluir constantemente, mantendo-me atualizado com as tendências e melhores práticas do mercado.
 
 Participei ativamente de projetos de desenvolvimento web full-stack e estou sempre pronto para abraçar novos desafios. Tenho um compromisso sólido com a entrega de resultados de excelência e mantenho uma postura dedicada e comprometida.
